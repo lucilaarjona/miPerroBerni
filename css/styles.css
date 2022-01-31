@@ -1,11 +1,8 @@
 *{
     box-sizing: border-box;
-}
-    /*Seteo los margenes a cero*/
-*{
-
     font-family: 'Nunito', sans-serif;
 }
+    /*Seteo los margenes a cero*/
 header{
     display: flex;
     justify-content: space-around;
@@ -20,15 +17,15 @@ footer{
     background-color: beige;
 }
 h1{
-    
     font-weight: bold;
     font-size: 40px;
 }
 .menu{
+    box-sizing: border-box;
     display: flex;
     justify-content: space-around;
     align-content: center;
-    margin-top: 50px;
-    padding: 5px;
-    width: 100%;
+    margin-top: 0;
+    padding: 0;
+    width: 150%;
 }
