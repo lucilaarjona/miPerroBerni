@@ -1,4 +1,5 @@
 *{
+    background-color: white;
     box-sizing: border-box;
     font-family: 'Nunito', sans-serif;
 }
@@ -6,12 +7,6 @@
 header{
     display: flex;
     justify-content: space-around;
-}
-body{
-    background-color:rgb(238, 220, 247);
-}
-footer{
-    background-color: #fff;
 }
 #morita{
     background-color: beige;
