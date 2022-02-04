@@ -1,26 +1,10 @@
 *{
-    background-color: white;
     box-sizing: border-box;
-    font-family: 'Nunito', sans-serif;
+    background-color: white;
 }
-    /*Seteo los margenes a cero*/
-header{
-    display: flex;
-    justify-content: space-around;
+/* #menu{
+
 }
 #morita{
-    background-color: beige;
-}
-h1{
-    font-weight: bold;
-    font-size: 40px;
-}
-.menu{
-    box-sizing: border-box;
-    display: flex;
-    justify-content: space-around;
-    align-content: center;
-    margin-top: 0;
-    padding: 0;
-    width: 150%;
-}
+
+} */
