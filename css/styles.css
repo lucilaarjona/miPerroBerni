@@ -1,17 +1,32 @@
 * {
     box-sizing: border-box;
-    background-color: lightgrey;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+#cabecera {
+    background-color: white;
+    width: 100%;
+    clear: both;
+    content: "";
+    display: table;
 }
 
 #menu {
-    display: flex;
+    width: 900px;
+    margin: 0 auto;
 }
 
-/* #berni{
-background-image: url("img/yo.jpgs"); 
-background-attachment: scroll;
-} */
+#berni {
+    background-image: url("img/yo.jpgs");
+    background-attachment: scroll;
+}
 
 /* #morita{
 
