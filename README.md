@@ -1,3 +1,2 @@
 # miPerroBerni
-# Proyecto Ingenias
 
