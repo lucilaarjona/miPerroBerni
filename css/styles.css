@@ -1,12 +1,12 @@
-*{
+* {
     box-sizing: border-box;
-    background-color: white;
+    background-color: lightgrey;
     font-family: 'Roboto', sans-serif;
 }
 
-#menu{
+#menu {
     display: flex;
-} 
+}
 
 /* #berni{
 background-image: url("img/yo.jpgs"); 
@@ -16,7 +16,7 @@ background-attachment: scroll;
 /* #morita{
 
 } */
-#pegatina{
+#pegatina {
     /* position: -webkit-sticky; */
     position: sticky;
     position: fixed;
